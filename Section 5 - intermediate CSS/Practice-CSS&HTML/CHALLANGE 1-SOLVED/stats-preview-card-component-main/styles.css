@@ -1,0 +1,114 @@
+body{
+ background-color: hsl(233, 47%, 7%);
+ font-weight: 400;
+}
+
+h1{
+  color:hsl(0, 0%, 100%);
+  font-family: 'Inter', sans-serif;
+  font-size:50px;
+  width: 80%;
+  margin: 70px auto 40px;
+}
+
+
+h2{
+  display: inline;
+  color:hsl(0, 0%, 100%);
+  font-family: sans-serif;
+  font-size: 40px;
+  font-weight: bold;
+  margin : 100px 40px;
+  position: relative;
+  top: 50px;
+  left: 30px;
+}
+
+img{
+  border-radius: 0px 8px 8px 0px;
+  opacity: 0.5;
+}
+
+
+.frame{
+ margin: 10%;
+ width: 1440px ;
+ height: 500px;
+ display:block;
+}
+
+.text{
+background-color:hsl(244, 38%, 16%) ;
+ width:50%;
+ height: 100%;
+ display:inline-block;
+ position: relative;
+ top: -135px;
+ left: 3px;
+}
+
+.insights{
+ color: hsl(277, 64%, 64%);
+}
+
+.description{
+  color:hsl(0, 0%, 100%);
+  font-family: sans-serif;
+  font-weight: lighter;
+  line-height: 1.5;
+  width: 50%;
+  margin: 0px auto;
+  padding-right: 210px;
+}
+
+.statisticalDescription{
+  display: inline;
+  color:hsl(0, 0%, 100%);
+  font-family: sans-serif;
+  font-size: 20px;
+  font-weight: lighter;
+  margin : 0px 40px 0px;
+  position: relative;
+  left: 35px;
+  bottom: -50px;
+}
+
+
+.picture{
+
+  width: 49%;
+  height: 100%;
+  display: inline-block;
+
+
+}
+
+.img{
+ width: 100%;
+ height: 100%
+
+}
+
+.wallPaper{
+
+  border-radius: 0px 8px 8px 0px;
+ width: 100%;
+ height: 100%;
+  background-color: hsl(277, 64%, 64%);
+
+/*
+width: 710px;
+height: 500px;
+  position: absolute;
+  left: 920px;
+  top : 190px;
+*/
+}
+
+.attribution {
+width: 30%;
+color: white;
+margin: 0 auto;
+
+
+}

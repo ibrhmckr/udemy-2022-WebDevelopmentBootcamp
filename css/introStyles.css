@@ -1,0 +1,39 @@
+/******************TAG SELECTION****************/
+
+h1{
+   color:red;
+   font-size:100px;
+
+
+}
+
+p{
+  color:blue;
+  font-size: 25px;
+
+}
+
+img:hover{
+background-color:orange;
+}
+
+/******************CLASS SELECTION****************/
+.chickenProfile{
+  background-color: green;
+
+}
+
+.brokoli{
+  background-color:red;
+}
+
+/******************SECOND CLASS SELECTION****************/
+.circular{
+border-radius: 30px;
+}
+
+/******************iD SELECTION****************/
+
+#heading{
+   color:yellow;
+}
